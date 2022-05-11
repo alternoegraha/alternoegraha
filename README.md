@@ -1,4 +1,4 @@
-just random weirdo interested to everything!
+everything we need is already here
 
 <!---
 alternoegraha/alternoegraha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
