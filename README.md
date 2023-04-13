@@ -1,4 +1,4 @@
-EWNIAH
+Everything We Need Is Already Here
 
 <!---
 alternoegraha/alternoegraha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
