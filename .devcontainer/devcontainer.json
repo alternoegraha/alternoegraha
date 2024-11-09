@@ -1,0 +1,14 @@
+{
+    "customizations": {
+      "codespaces": {
+        "repositories": {
+          "alternoegraha/*": {
+            "permissions": {
+              "contents": "write",
+              "repository_projects": "write"
+            }
+          }
+        }
+      }
+    }
+  }
