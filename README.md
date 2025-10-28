@@ -1,4 +1,4 @@
-Everything We Need Is Already Here
+everything we need is already here.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alternoegraha)](https://github.com/alternoegraha)
 <!---
